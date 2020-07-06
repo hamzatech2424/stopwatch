@@ -1,0 +1,66 @@
+
+.stp{
+text-align: center;
+font-size: 30px;
+color: #2D4058;
+
+}
+
+
+.main
+{
+    width: 500px;
+    height: 300px;
+    background-color : #DAAD86;
+    margin: 0px auto;
+    border-radius: 180px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.bcircle{
+
+    width: 400px;
+    height: 200px;
+    background-color :#BD986B; 
+    margin: 0px auto;
+    position: relative;
+    border-radius: 180px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+
+}
+
+
+.h12 {
+    display: inline-block;
+    height: 100px;
+    width: 200px;
+    left: 80px;
+    top: 30px;
+    background-color:  #B73A5D;
+    padding: 15px;
+    position:absolute;
+    border-radius: 180px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+h1{
+    float: left;
+    margin: 30px 20px 0 20px;
+    color:white;
+    width: 25px;
+
+}
+
+button{
+    margin-top: 190px;
+    margin-left: 60px;
+    background-color: #46A049;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    color: whitesmoke;
+    height: 30px;
+    width: 55px;
+}
+
+
